@@ -1,0 +1,8 @@
+row col-xs-12 row{
+    margin-top: 10px;
+}
+
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched{
+    border: solid red 1px;
+}
